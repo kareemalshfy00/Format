@@ -1,6 +1,6 @@
 cd Format
 
-bash kareem
+bash kareem.sh
 
 
 
